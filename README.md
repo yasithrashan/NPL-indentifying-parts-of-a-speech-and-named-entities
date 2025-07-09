@@ -1,1 +1,1 @@
-# NPL-indentifying-parts-of-a-speech-and-named-entities
+# nlp-indentifying-parts-of-a-speech-and-named-entities
